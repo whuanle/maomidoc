@@ -1,0 +1,1034 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Maomi
+  name: Maomi
+  href: api/Maomi.html
+  commentId: N:Maomi
+  fullName: Maomi
+  nameWithType: Maomi
+- uid: Maomi.EventBus
+  name: EventBus
+  href: api/Maomi.EventBus.html
+  commentId: N:Maomi.EventBus
+  name.csharp: Maomi.EventBus
+  name.vb: Maomi.EventBus
+  fullName: Maomi.EventBus
+  nameWithType: Maomi.EventBus
+- uid: Maomi.EventBus.Event
+  name: Event
+  href: api/Maomi.EventBus.Event.html
+  commentId: T:Maomi.EventBus.Event
+  fullName: Maomi.EventBus.Event
+  nameWithType: Event
+- uid: Maomi.EventBus.Event.#ctor
+  name: Event()
+  href: api/Maomi.EventBus.Event.html#Maomi_EventBus_Event__ctor
+  commentId: M:Maomi.EventBus.Event.#ctor
+  name.vb: New()
+  fullName: Maomi.EventBus.Event.Event()
+  fullName.vb: Maomi.EventBus.Event.New()
+  nameWithType: Event.Event()
+  nameWithType.vb: Event.New()
+- uid: Maomi.EventBus.Event.#ctor(System.Guid,System.DateTime)
+  name: Event(Guid, DateTime)
+  href: api/Maomi.EventBus.Event.html#Maomi_EventBus_Event__ctor_System_Guid_System_DateTime_
+  commentId: M:Maomi.EventBus.Event.#ctor(System.Guid,System.DateTime)
+  name.vb: New(Guid, Date)
+  fullName: Maomi.EventBus.Event.Event(System.Guid, System.DateTime)
+  fullName.vb: Maomi.EventBus.Event.New(System.Guid, Date)
+  nameWithType: Event.Event(Guid, DateTime)
+  nameWithType.vb: Event.New(Guid, Date)
+- uid: Maomi.EventBus.Event.#ctor*
+  name: Event
+  href: api/Maomi.EventBus.Event.html#Maomi_EventBus_Event__ctor_
+  commentId: Overload:Maomi.EventBus.Event.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Maomi.EventBus.Event.Event
+  fullName.vb: Maomi.EventBus.Event.New
+  nameWithType: Event.Event
+  nameWithType.vb: Event.New
+- uid: Maomi.EventBus.Event.GetCreationTime
+  name: GetCreationTime()
+  href: api/Maomi.EventBus.Event.html#Maomi_EventBus_Event_GetCreationTime
+  commentId: M:Maomi.EventBus.Event.GetCreationTime
+  fullName: Maomi.EventBus.Event.GetCreationTime()
+  nameWithType: Event.GetCreationTime()
+- uid: Maomi.EventBus.Event.GetCreationTime*
+  name: GetCreationTime
+  href: api/Maomi.EventBus.Event.html#Maomi_EventBus_Event_GetCreationTime_
+  commentId: Overload:Maomi.EventBus.Event.GetCreationTime
+  isSpec: "True"
+  fullName: Maomi.EventBus.Event.GetCreationTime
+  nameWithType: Event.GetCreationTime
+- uid: Maomi.EventBus.Event.GetEventId
+  name: GetEventId()
+  href: api/Maomi.EventBus.Event.html#Maomi_EventBus_Event_GetEventId
+  commentId: M:Maomi.EventBus.Event.GetEventId
+  fullName: Maomi.EventBus.Event.GetEventId()
+  nameWithType: Event.GetEventId()
+- uid: Maomi.EventBus.Event.GetEventId*
+  name: GetEventId
+  href: api/Maomi.EventBus.Event.html#Maomi_EventBus_Event_GetEventId_
+  commentId: Overload:Maomi.EventBus.Event.GetEventId
+  isSpec: "True"
+  fullName: Maomi.EventBus.Event.GetEventId
+  nameWithType: Event.GetEventId
+- uid: Maomi.EventBus.Event.SetCreationTime(System.DateTime)
+  name: SetCreationTime(DateTime)
+  href: api/Maomi.EventBus.Event.html#Maomi_EventBus_Event_SetCreationTime_System_DateTime_
+  commentId: M:Maomi.EventBus.Event.SetCreationTime(System.DateTime)
+  name.vb: SetCreationTime(Date)
+  fullName: Maomi.EventBus.Event.SetCreationTime(System.DateTime)
+  fullName.vb: Maomi.EventBus.Event.SetCreationTime(Date)
+  nameWithType: Event.SetCreationTime(DateTime)
+  nameWithType.vb: Event.SetCreationTime(Date)
+- uid: Maomi.EventBus.Event.SetCreationTime*
+  name: SetCreationTime
+  href: api/Maomi.EventBus.Event.html#Maomi_EventBus_Event_SetCreationTime_
+  commentId: Overload:Maomi.EventBus.Event.SetCreationTime
+  isSpec: "True"
+  fullName: Maomi.EventBus.Event.SetCreationTime
+  nameWithType: Event.SetCreationTime
+- uid: Maomi.EventBus.Event.SetEventId(System.Guid)
+  name: SetEventId(Guid)
+  href: api/Maomi.EventBus.Event.html#Maomi_EventBus_Event_SetEventId_System_Guid_
+  commentId: M:Maomi.EventBus.Event.SetEventId(System.Guid)
+  fullName: Maomi.EventBus.Event.SetEventId(System.Guid)
+  nameWithType: Event.SetEventId(Guid)
+- uid: Maomi.EventBus.Event.SetEventId*
+  name: SetEventId
+  href: api/Maomi.EventBus.Event.html#Maomi_EventBus_Event_SetEventId_
+  commentId: Overload:Maomi.EventBus.Event.SetEventId
+  isSpec: "True"
+  fullName: Maomi.EventBus.Event.SetEventId
+  nameWithType: Event.SetEventId
+- uid: Maomi.EventBus.EventAttribute
+  name: EventAttribute
+  href: api/Maomi.EventBus.EventAttribute.html
+  commentId: T:Maomi.EventBus.EventAttribute
+  fullName: Maomi.EventBus.EventAttribute
+  nameWithType: EventAttribute
+- uid: Maomi.EventBus.EventBus
+  name: EventBus
+  href: api/Maomi.EventBus.EventBus.html
+  commentId: T:Maomi.EventBus.EventBus
+  fullName: Maomi.EventBus.EventBus
+  nameWithType: EventBus
+- uid: Maomi.EventBus.EventBus.#ctor(System.IServiceProvider)
+  name: EventBus(IServiceProvider)
+  href: api/Maomi.EventBus.EventBus.html#Maomi_EventBus_EventBus__ctor_System_IServiceProvider_
+  commentId: M:Maomi.EventBus.EventBus.#ctor(System.IServiceProvider)
+  name.vb: New(IServiceProvider)
+  fullName: Maomi.EventBus.EventBus.EventBus(System.IServiceProvider)
+  fullName.vb: Maomi.EventBus.EventBus.New(System.IServiceProvider)
+  nameWithType: EventBus.EventBus(IServiceProvider)
+  nameWithType.vb: EventBus.New(IServiceProvider)
+- uid: Maomi.EventBus.EventBus.#ctor*
+  name: EventBus
+  href: api/Maomi.EventBus.EventBus.html#Maomi_EventBus_EventBus__ctor_
+  commentId: Overload:Maomi.EventBus.EventBus.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Maomi.EventBus.EventBus.EventBus
+  fullName.vb: Maomi.EventBus.EventBus.New
+  nameWithType: EventBus.EventBus
+  nameWithType.vb: EventBus.New
+- uid: Maomi.EventBus.EventBus.AddCancelEventHandler(System.Type,System.Int32,System.Type,System.Reflection.MethodInfo)
+  name: AddCancelEventHandler(Type, int, Type, MethodInfo)
+  href: api/Maomi.EventBus.EventBus.html#Maomi_EventBus_EventBus_AddCancelEventHandler_System_Type_System_Int32_System_Type_System_Reflection_MethodInfo_
+  commentId: M:Maomi.EventBus.EventBus.AddCancelEventHandler(System.Type,System.Int32,System.Type,System.Reflection.MethodInfo)
+  name.vb: AddCancelEventHandler(Type, Integer, Type, MethodInfo)
+  fullName: Maomi.EventBus.EventBus.AddCancelEventHandler(System.Type, int, System.Type, System.Reflection.MethodInfo)
+  fullName.vb: Maomi.EventBus.EventBus.AddCancelEventHandler(System.Type, Integer, System.Type, System.Reflection.MethodInfo)
+  nameWithType: EventBus.AddCancelEventHandler(Type, int, Type, MethodInfo)
+  nameWithType.vb: EventBus.AddCancelEventHandler(Type, Integer, Type, MethodInfo)
+- uid: Maomi.EventBus.EventBus.AddCancelEventHandler*
+  name: AddCancelEventHandler
+  href: api/Maomi.EventBus.EventBus.html#Maomi_EventBus_EventBus_AddCancelEventHandler_
+  commentId: Overload:Maomi.EventBus.EventBus.AddCancelEventHandler
+  isSpec: "True"
+  fullName: Maomi.EventBus.EventBus.AddCancelEventHandler
+  nameWithType: EventBus.AddCancelEventHandler
+- uid: Maomi.EventBus.EventBus.AddEventHandler(System.Type,System.Int32,System.Type,System.Reflection.MethodInfo)
+  name: AddEventHandler(Type, int, Type, MethodInfo)
+  href: api/Maomi.EventBus.EventBus.html#Maomi_EventBus_EventBus_AddEventHandler_System_Type_System_Int32_System_Type_System_Reflection_MethodInfo_
+  commentId: M:Maomi.EventBus.EventBus.AddEventHandler(System.Type,System.Int32,System.Type,System.Reflection.MethodInfo)
+  name.vb: AddEventHandler(Type, Integer, Type, MethodInfo)
+  fullName: Maomi.EventBus.EventBus.AddEventHandler(System.Type, int, System.Type, System.Reflection.MethodInfo)
+  fullName.vb: Maomi.EventBus.EventBus.AddEventHandler(System.Type, Integer, System.Type, System.Reflection.MethodInfo)
+  nameWithType: EventBus.AddEventHandler(Type, int, Type, MethodInfo)
+  nameWithType.vb: EventBus.AddEventHandler(Type, Integer, Type, MethodInfo)
+- uid: Maomi.EventBus.EventBus.AddEventHandler*
+  name: AddEventHandler
+  href: api/Maomi.EventBus.EventBus.html#Maomi_EventBus_EventBus_AddEventHandler_
+  commentId: Overload:Maomi.EventBus.EventBus.AddEventHandler
+  isSpec: "True"
+  fullName: Maomi.EventBus.EventBus.AddEventHandler
+  nameWithType: EventBus.AddEventHandler
+- uid: Maomi.EventBus.EventBus.PublishAsync*
+  name: PublishAsync
+  href: api/Maomi.EventBus.EventBus.html#Maomi_EventBus_EventBus_PublishAsync_
+  commentId: Overload:Maomi.EventBus.EventBus.PublishAsync
+  isSpec: "True"
+  fullName: Maomi.EventBus.EventBus.PublishAsync
+  nameWithType: EventBus.PublishAsync
+- uid: Maomi.EventBus.EventBus.PublishAsync``1(``0,System.Threading.CancellationToken)
+  name: PublishAsync<TEvent>(TEvent, CancellationToken)
+  href: api/Maomi.EventBus.EventBus.html#Maomi_EventBus_EventBus_PublishAsync__1___0_System_Threading_CancellationToken_
+  commentId: M:Maomi.EventBus.EventBus.PublishAsync``1(``0,System.Threading.CancellationToken)
+  name.vb: PublishAsync(Of TEvent)(TEvent, CancellationToken)
+  fullName: Maomi.EventBus.EventBus.PublishAsync<TEvent>(TEvent, System.Threading.CancellationToken)
+  fullName.vb: Maomi.EventBus.EventBus.PublishAsync(Of TEvent)(TEvent, System.Threading.CancellationToken)
+  nameWithType: EventBus.PublishAsync<TEvent>(TEvent, CancellationToken)
+  nameWithType.vb: EventBus.PublishAsync(Of TEvent)(TEvent, CancellationToken)
+- uid: Maomi.EventBus.EventBus.SetMiddleware(System.Type)
+  name: SetMiddleware(Type)
+  href: api/Maomi.EventBus.EventBus.html#Maomi_EventBus_EventBus_SetMiddleware_System_Type_
+  commentId: M:Maomi.EventBus.EventBus.SetMiddleware(System.Type)
+  fullName: Maomi.EventBus.EventBus.SetMiddleware(System.Type)
+  nameWithType: EventBus.SetMiddleware(Type)
+- uid: Maomi.EventBus.EventBus.SetMiddleware*
+  name: SetMiddleware
+  href: api/Maomi.EventBus.EventBus.html#Maomi_EventBus_EventBus_SetMiddleware_
+  commentId: Overload:Maomi.EventBus.EventBus.SetMiddleware
+  isSpec: "True"
+  fullName: Maomi.EventBus.EventBus.SetMiddleware
+  nameWithType: EventBus.SetMiddleware
+- uid: Maomi.EventBus.EventBusExtensions
+  name: EventBusExtensions
+  href: api/Maomi.EventBus.EventBusExtensions.html
+  commentId: T:Maomi.EventBus.EventBusExtensions
+  fullName: Maomi.EventBus.EventBusExtensions
+  nameWithType: EventBusExtensions
+- uid: Maomi.EventBus.EventBusExtensions.AddEventBus(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type)
+  name: AddEventBus(IServiceCollection, Type?)
+  href: api/Maomi.EventBus.EventBusExtensions.html#Maomi_EventBus_EventBusExtensions_AddEventBus_Microsoft_Extensions_DependencyInjection_IServiceCollection_System_Type_
+  commentId: M:Maomi.EventBus.EventBusExtensions.AddEventBus(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type)
+  name.vb: AddEventBus(IServiceCollection, Type)
+  fullName: Maomi.EventBus.EventBusExtensions.AddEventBus(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Type?)
+  fullName.vb: Maomi.EventBus.EventBusExtensions.AddEventBus(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Type)
+  nameWithType: EventBusExtensions.AddEventBus(IServiceCollection, Type?)
+  nameWithType.vb: EventBusExtensions.AddEventBus(IServiceCollection, Type)
+- uid: Maomi.EventBus.EventBusExtensions.AddEventBus*
+  name: AddEventBus
+  href: api/Maomi.EventBus.EventBusExtensions.html#Maomi_EventBus_EventBusExtensions_AddEventBus_
+  commentId: Overload:Maomi.EventBus.EventBusExtensions.AddEventBus
+  isSpec: "True"
+  fullName: Maomi.EventBus.EventBusExtensions.AddEventBus
+  nameWithType: EventBusExtensions.AddEventBus
+- uid: Maomi.EventBus.EventHandlerAttribute
+  name: EventHandlerAttribute
+  href: api/Maomi.EventBus.EventHandlerAttribute.html
+  commentId: T:Maomi.EventBus.EventHandlerAttribute
+  fullName: Maomi.EventBus.EventHandlerAttribute
+  nameWithType: EventHandlerAttribute
+- uid: Maomi.EventBus.EventHandlerAttribute.IsCancel
+  name: IsCancel
+  href: api/Maomi.EventBus.EventHandlerAttribute.html#Maomi_EventBus_EventHandlerAttribute_IsCancel
+  commentId: P:Maomi.EventBus.EventHandlerAttribute.IsCancel
+  fullName: Maomi.EventBus.EventHandlerAttribute.IsCancel
+  nameWithType: EventHandlerAttribute.IsCancel
+- uid: Maomi.EventBus.EventHandlerAttribute.IsCancel*
+  name: IsCancel
+  href: api/Maomi.EventBus.EventHandlerAttribute.html#Maomi_EventBus_EventHandlerAttribute_IsCancel_
+  commentId: Overload:Maomi.EventBus.EventHandlerAttribute.IsCancel
+  isSpec: "True"
+  fullName: Maomi.EventBus.EventHandlerAttribute.IsCancel
+  nameWithType: EventHandlerAttribute.IsCancel
+- uid: Maomi.EventBus.EventHandlerAttribute.Order
+  name: Order
+  href: api/Maomi.EventBus.EventHandlerAttribute.html#Maomi_EventBus_EventHandlerAttribute_Order
+  commentId: P:Maomi.EventBus.EventHandlerAttribute.Order
+  fullName: Maomi.EventBus.EventHandlerAttribute.Order
+  nameWithType: EventHandlerAttribute.Order
+- uid: Maomi.EventBus.EventHandlerAttribute.Order*
+  name: Order
+  href: api/Maomi.EventBus.EventHandlerAttribute.html#Maomi_EventBus_EventHandlerAttribute_Order_
+  commentId: Overload:Maomi.EventBus.EventHandlerAttribute.Order
+  isSpec: "True"
+  fullName: Maomi.EventBus.EventHandlerAttribute.Order
+  nameWithType: EventHandlerAttribute.Order
+- uid: Maomi.EventBus.EventHandlerDelegate
+  name: EventHandlerDelegate
+  href: api/Maomi.EventBus.EventHandlerDelegate.html
+  commentId: T:Maomi.EventBus.EventHandlerDelegate
+  fullName: Maomi.EventBus.EventHandlerDelegate
+  nameWithType: EventHandlerDelegate
+- uid: Maomi.EventBus.IEvent
+  name: IEvent
+  href: api/Maomi.EventBus.IEvent.html
+  commentId: T:Maomi.EventBus.IEvent
+  fullName: Maomi.EventBus.IEvent
+  nameWithType: IEvent
+- uid: Maomi.EventBus.IEvent.GetCreationTime
+  name: GetCreationTime()
+  href: api/Maomi.EventBus.IEvent.html#Maomi_EventBus_IEvent_GetCreationTime
+  commentId: M:Maomi.EventBus.IEvent.GetCreationTime
+  fullName: Maomi.EventBus.IEvent.GetCreationTime()
+  nameWithType: IEvent.GetCreationTime()
+- uid: Maomi.EventBus.IEvent.GetCreationTime*
+  name: GetCreationTime
+  href: api/Maomi.EventBus.IEvent.html#Maomi_EventBus_IEvent_GetCreationTime_
+  commentId: Overload:Maomi.EventBus.IEvent.GetCreationTime
+  isSpec: "True"
+  fullName: Maomi.EventBus.IEvent.GetCreationTime
+  nameWithType: IEvent.GetCreationTime
+- uid: Maomi.EventBus.IEvent.GetEventId
+  name: GetEventId()
+  href: api/Maomi.EventBus.IEvent.html#Maomi_EventBus_IEvent_GetEventId
+  commentId: M:Maomi.EventBus.IEvent.GetEventId
+  fullName: Maomi.EventBus.IEvent.GetEventId()
+  nameWithType: IEvent.GetEventId()
+- uid: Maomi.EventBus.IEvent.GetEventId*
+  name: GetEventId
+  href: api/Maomi.EventBus.IEvent.html#Maomi_EventBus_IEvent_GetEventId_
+  commentId: Overload:Maomi.EventBus.IEvent.GetEventId
+  isSpec: "True"
+  fullName: Maomi.EventBus.IEvent.GetEventId
+  nameWithType: IEvent.GetEventId
+- uid: Maomi.EventBus.IEvent.SetCreationTime(System.DateTime)
+  name: SetCreationTime(DateTime)
+  href: api/Maomi.EventBus.IEvent.html#Maomi_EventBus_IEvent_SetCreationTime_System_DateTime_
+  commentId: M:Maomi.EventBus.IEvent.SetCreationTime(System.DateTime)
+  name.vb: SetCreationTime(Date)
+  fullName: Maomi.EventBus.IEvent.SetCreationTime(System.DateTime)
+  fullName.vb: Maomi.EventBus.IEvent.SetCreationTime(Date)
+  nameWithType: IEvent.SetCreationTime(DateTime)
+  nameWithType.vb: IEvent.SetCreationTime(Date)
+- uid: Maomi.EventBus.IEvent.SetCreationTime*
+  name: SetCreationTime
+  href: api/Maomi.EventBus.IEvent.html#Maomi_EventBus_IEvent_SetCreationTime_
+  commentId: Overload:Maomi.EventBus.IEvent.SetCreationTime
+  isSpec: "True"
+  fullName: Maomi.EventBus.IEvent.SetCreationTime
+  nameWithType: IEvent.SetCreationTime
+- uid: Maomi.EventBus.IEvent.SetEventId(System.Guid)
+  name: SetEventId(Guid)
+  href: api/Maomi.EventBus.IEvent.html#Maomi_EventBus_IEvent_SetEventId_System_Guid_
+  commentId: M:Maomi.EventBus.IEvent.SetEventId(System.Guid)
+  fullName: Maomi.EventBus.IEvent.SetEventId(System.Guid)
+  nameWithType: IEvent.SetEventId(Guid)
+- uid: Maomi.EventBus.IEvent.SetEventId*
+  name: SetEventId
+  href: api/Maomi.EventBus.IEvent.html#Maomi_EventBus_IEvent_SetEventId_
+  commentId: Overload:Maomi.EventBus.IEvent.SetEventId
+  isSpec: "True"
+  fullName: Maomi.EventBus.IEvent.SetEventId
+  nameWithType: IEvent.SetEventId
+- uid: Maomi.EventBus.IEventBus
+  name: IEventBus
+  href: api/Maomi.EventBus.IEventBus.html
+  commentId: T:Maomi.EventBus.IEventBus
+  fullName: Maomi.EventBus.IEventBus
+  nameWithType: IEventBus
+- uid: Maomi.EventBus.IEventBus.PublishAsync*
+  name: PublishAsync
+  href: api/Maomi.EventBus.IEventBus.html#Maomi_EventBus_IEventBus_PublishAsync_
+  commentId: Overload:Maomi.EventBus.IEventBus.PublishAsync
+  isSpec: "True"
+  fullName: Maomi.EventBus.IEventBus.PublishAsync
+  nameWithType: IEventBus.PublishAsync
+- uid: Maomi.EventBus.IEventBus.PublishAsync``1(``0,System.Threading.CancellationToken)
+  name: PublishAsync<TEvent>(TEvent, CancellationToken)
+  href: api/Maomi.EventBus.IEventBus.html#Maomi_EventBus_IEventBus_PublishAsync__1___0_System_Threading_CancellationToken_
+  commentId: M:Maomi.EventBus.IEventBus.PublishAsync``1(``0,System.Threading.CancellationToken)
+  name.vb: PublishAsync(Of TEvent)(TEvent, CancellationToken)
+  fullName: Maomi.EventBus.IEventBus.PublishAsync<TEvent>(TEvent, System.Threading.CancellationToken)
+  fullName.vb: Maomi.EventBus.IEventBus.PublishAsync(Of TEvent)(TEvent, System.Threading.CancellationToken)
+  nameWithType: IEventBus.PublishAsync<TEvent>(TEvent, CancellationToken)
+  nameWithType.vb: IEventBus.PublishAsync(Of TEvent)(TEvent, CancellationToken)
+- uid: Maomi.EventBus.IEventMiddleware`1
+  name: IEventMiddleware<TEvent>
+  href: api/Maomi.EventBus.IEventMiddleware-1.html
+  commentId: T:Maomi.EventBus.IEventMiddleware`1
+  name.vb: IEventMiddleware(Of TEvent)
+  fullName: Maomi.EventBus.IEventMiddleware<TEvent>
+  fullName.vb: Maomi.EventBus.IEventMiddleware(Of TEvent)
+  nameWithType: IEventMiddleware<TEvent>
+  nameWithType.vb: IEventMiddleware(Of TEvent)
+- uid: Maomi.EventBus.IEventMiddleware`1.HandleAsync(`0,Maomi.EventBus.EventHandlerDelegate)
+  name: HandleAsync(TEvent, EventHandlerDelegate)
+  href: api/Maomi.EventBus.IEventMiddleware-1.html#Maomi_EventBus_IEventMiddleware_1_HandleAsync__0_Maomi_EventBus_EventHandlerDelegate_
+  commentId: M:Maomi.EventBus.IEventMiddleware`1.HandleAsync(`0,Maomi.EventBus.EventHandlerDelegate)
+  fullName: Maomi.EventBus.IEventMiddleware<TEvent>.HandleAsync(TEvent, Maomi.EventBus.EventHandlerDelegate)
+  fullName.vb: Maomi.EventBus.IEventMiddleware(Of TEvent).HandleAsync(TEvent, Maomi.EventBus.EventHandlerDelegate)
+  nameWithType: IEventMiddleware<TEvent>.HandleAsync(TEvent, EventHandlerDelegate)
+  nameWithType.vb: IEventMiddleware(Of TEvent).HandleAsync(TEvent, EventHandlerDelegate)
+- uid: Maomi.EventBus.IEventMiddleware`1.HandleAsync*
+  name: HandleAsync
+  href: api/Maomi.EventBus.IEventMiddleware-1.html#Maomi_EventBus_IEventMiddleware_1_HandleAsync_
+  commentId: Overload:Maomi.EventBus.IEventMiddleware`1.HandleAsync
+  isSpec: "True"
+  fullName: Maomi.EventBus.IEventMiddleware<TEvent>.HandleAsync
+  fullName.vb: Maomi.EventBus.IEventMiddleware(Of TEvent).HandleAsync
+  nameWithType: IEventMiddleware<TEvent>.HandleAsync
+  nameWithType.vb: IEventMiddleware(Of TEvent).HandleAsync
+- uid: Maomi.I18n
+  name: I18n
+  href: api/Maomi.I18n.html
+  commentId: N:Maomi.I18n
+  name.csharp: Maomi.I18n
+  name.vb: Maomi.I18n
+  fullName: Maomi.I18n
+  nameWithType: Maomi.I18n
+- uid: Maomi.I18n.I18nContext
+  name: I18nContext
+  href: api/Maomi.I18n.I18nContext.html
+  commentId: T:Maomi.I18n.I18nContext
+  fullName: Maomi.I18n.I18nContext
+  nameWithType: I18nContext
+- uid: Maomi.I18n.I18nContext.Culture
+  name: Culture
+  href: api/Maomi.I18n.I18nContext.html#Maomi_I18n_I18nContext_Culture
+  commentId: P:Maomi.I18n.I18nContext.Culture
+  fullName: Maomi.I18n.I18nContext.Culture
+  nameWithType: I18nContext.Culture
+- uid: Maomi.I18n.I18nContext.Culture*
+  name: Culture
+  href: api/Maomi.I18n.I18nContext.html#Maomi_I18n_I18nContext_Culture_
+  commentId: Overload:Maomi.I18n.I18nContext.Culture
+  isSpec: "True"
+  fullName: Maomi.I18n.I18nContext.Culture
+  nameWithType: I18nContext.Culture
+- uid: Maomi.I18n.I18nExtensions
+  name: I18nExtensions
+  href: api/Maomi.I18n.I18nExtensions.html
+  commentId: T:Maomi.I18n.I18nExtensions
+  fullName: Maomi.I18n.I18nExtensions
+  nameWithType: I18nExtensions
+- uid: Maomi.I18n.I18nExtensions.AddI18n(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Boolean,System.String,System.String)
+  name: AddI18n(IServiceCollection, bool, string, string)
+  href: api/Maomi.I18n.I18nExtensions.html#Maomi_I18n_I18nExtensions_AddI18n_Microsoft_Extensions_DependencyInjection_IServiceCollection_System_Boolean_System_String_System_String_
+  commentId: M:Maomi.I18n.I18nExtensions.AddI18n(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Boolean,System.String,System.String)
+  name.vb: AddI18n(IServiceCollection, Boolean, String, String)
+  fullName: Maomi.I18n.I18nExtensions.AddI18n(Microsoft.Extensions.DependencyInjection.IServiceCollection, bool, string, string)
+  fullName.vb: Maomi.I18n.I18nExtensions.AddI18n(Microsoft.Extensions.DependencyInjection.IServiceCollection, Boolean, String, String)
+  nameWithType: I18nExtensions.AddI18n(IServiceCollection, bool, string, string)
+  nameWithType.vb: I18nExtensions.AddI18n(IServiceCollection, Boolean, String, String)
+- uid: Maomi.I18n.I18nExtensions.AddI18n*
+  name: AddI18n
+  href: api/Maomi.I18n.I18nExtensions.html#Maomi_I18n_I18nExtensions_AddI18n_
+  commentId: Overload:Maomi.I18n.I18nExtensions.AddI18n
+  isSpec: "True"
+  fullName: Maomi.I18n.I18nExtensions.AddI18n
+  nameWithType: I18nExtensions.AddI18n
+- uid: Maomi.I18n.I18nExtensions.UseI18n(Microsoft.AspNetCore.Builder.IApplicationBuilder)
+  name: UseI18n(IApplicationBuilder)
+  href: api/Maomi.I18n.I18nExtensions.html#Maomi_I18n_I18nExtensions_UseI18n_Microsoft_AspNetCore_Builder_IApplicationBuilder_
+  commentId: M:Maomi.I18n.I18nExtensions.UseI18n(Microsoft.AspNetCore.Builder.IApplicationBuilder)
+  fullName: Maomi.I18n.I18nExtensions.UseI18n(Microsoft.AspNetCore.Builder.IApplicationBuilder)
+  nameWithType: I18nExtensions.UseI18n(IApplicationBuilder)
+- uid: Maomi.I18n.I18nExtensions.UseI18n*
+  name: UseI18n
+  href: api/Maomi.I18n.I18nExtensions.html#Maomi_I18n_I18nExtensions_UseI18n_
+  commentId: Overload:Maomi.I18n.I18nExtensions.UseI18n
+  isSpec: "True"
+  fullName: Maomi.I18n.I18nExtensions.UseI18n
+  nameWithType: I18nExtensions.UseI18n
+- uid: Maomi.I18n.I18nMiddleware
+  name: I18nMiddleware
+  href: api/Maomi.I18n.I18nMiddleware.html
+  commentId: T:Maomi.I18n.I18nMiddleware
+  fullName: Maomi.I18n.I18nMiddleware
+  nameWithType: I18nMiddleware
+- uid: Maomi.I18n.I18nMiddleware.#ctor(System.Globalization.CultureInfo)
+  name: I18nMiddleware(CultureInfo)
+  href: api/Maomi.I18n.I18nMiddleware.html#Maomi_I18n_I18nMiddleware__ctor_System_Globalization_CultureInfo_
+  commentId: M:Maomi.I18n.I18nMiddleware.#ctor(System.Globalization.CultureInfo)
+  name.vb: New(CultureInfo)
+  fullName: Maomi.I18n.I18nMiddleware.I18nMiddleware(System.Globalization.CultureInfo)
+  fullName.vb: Maomi.I18n.I18nMiddleware.New(System.Globalization.CultureInfo)
+  nameWithType: I18nMiddleware.I18nMiddleware(CultureInfo)
+  nameWithType.vb: I18nMiddleware.New(CultureInfo)
+- uid: Maomi.I18n.I18nMiddleware.#ctor*
+  name: I18nMiddleware
+  href: api/Maomi.I18n.I18nMiddleware.html#Maomi_I18n_I18nMiddleware__ctor_
+  commentId: Overload:Maomi.I18n.I18nMiddleware.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Maomi.I18n.I18nMiddleware.I18nMiddleware
+  fullName.vb: Maomi.I18n.I18nMiddleware.New
+  nameWithType: I18nMiddleware.I18nMiddleware
+  nameWithType.vb: I18nMiddleware.New
+- uid: Maomi.I18n.I18nMiddleware.InvokeAsync(Microsoft.AspNetCore.Http.HttpContext,Microsoft.AspNetCore.Http.RequestDelegate)
+  name: InvokeAsync(HttpContext, RequestDelegate)
+  href: api/Maomi.I18n.I18nMiddleware.html#Maomi_I18n_I18nMiddleware_InvokeAsync_Microsoft_AspNetCore_Http_HttpContext_Microsoft_AspNetCore_Http_RequestDelegate_
+  commentId: M:Maomi.I18n.I18nMiddleware.InvokeAsync(Microsoft.AspNetCore.Http.HttpContext,Microsoft.AspNetCore.Http.RequestDelegate)
+  fullName: Maomi.I18n.I18nMiddleware.InvokeAsync(Microsoft.AspNetCore.Http.HttpContext, Microsoft.AspNetCore.Http.RequestDelegate)
+  nameWithType: I18nMiddleware.InvokeAsync(HttpContext, RequestDelegate)
+- uid: Maomi.I18n.I18nMiddleware.InvokeAsync*
+  name: InvokeAsync
+  href: api/Maomi.I18n.I18nMiddleware.html#Maomi_I18n_I18nMiddleware_InvokeAsync_
+  commentId: Overload:Maomi.I18n.I18nMiddleware.InvokeAsync
+  isSpec: "True"
+  fullName: Maomi.I18n.I18nMiddleware.InvokeAsync
+  nameWithType: I18nMiddleware.InvokeAsync
+- uid: Maomi.I18n.I18nRequestCultureProvider
+  name: I18nRequestCultureProvider
+  href: api/Maomi.I18n.I18nRequestCultureProvider.html
+  commentId: T:Maomi.I18n.I18nRequestCultureProvider
+  fullName: Maomi.I18n.I18nRequestCultureProvider
+  nameWithType: I18nRequestCultureProvider
+- uid: Maomi.I18n.I18nRequestCultureProvider.#ctor(System.String)
+  name: I18nRequestCultureProvider(string)
+  href: api/Maomi.I18n.I18nRequestCultureProvider.html#Maomi_I18n_I18nRequestCultureProvider__ctor_System_String_
+  commentId: M:Maomi.I18n.I18nRequestCultureProvider.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Maomi.I18n.I18nRequestCultureProvider.I18nRequestCultureProvider(string)
+  fullName.vb: Maomi.I18n.I18nRequestCultureProvider.New(String)
+  nameWithType: I18nRequestCultureProvider.I18nRequestCultureProvider(string)
+  nameWithType.vb: I18nRequestCultureProvider.New(String)
+- uid: Maomi.I18n.I18nRequestCultureProvider.#ctor*
+  name: I18nRequestCultureProvider
+  href: api/Maomi.I18n.I18nRequestCultureProvider.html#Maomi_I18n_I18nRequestCultureProvider__ctor_
+  commentId: Overload:Maomi.I18n.I18nRequestCultureProvider.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Maomi.I18n.I18nRequestCultureProvider.I18nRequestCultureProvider
+  fullName.vb: Maomi.I18n.I18nRequestCultureProvider.New
+  nameWithType: I18nRequestCultureProvider.I18nRequestCultureProvider
+  nameWithType.vb: I18nRequestCultureProvider.New
+- uid: Maomi.I18n.I18nRequestCultureProvider.DetermineProviderCultureResult(Microsoft.AspNetCore.Http.HttpContext)
+  name: DetermineProviderCultureResult(HttpContext)
+  href: api/Maomi.I18n.I18nRequestCultureProvider.html#Maomi_I18n_I18nRequestCultureProvider_DetermineProviderCultureResult_Microsoft_AspNetCore_Http_HttpContext_
+  commentId: M:Maomi.I18n.I18nRequestCultureProvider.DetermineProviderCultureResult(Microsoft.AspNetCore.Http.HttpContext)
+  fullName: Maomi.I18n.I18nRequestCultureProvider.DetermineProviderCultureResult(Microsoft.AspNetCore.Http.HttpContext)
+  nameWithType: I18nRequestCultureProvider.DetermineProviderCultureResult(HttpContext)
+- uid: Maomi.I18n.I18nRequestCultureProvider.DetermineProviderCultureResult*
+  name: DetermineProviderCultureResult
+  href: api/Maomi.I18n.I18nRequestCultureProvider.html#Maomi_I18n_I18nRequestCultureProvider_DetermineProviderCultureResult_
+  commentId: Overload:Maomi.I18n.I18nRequestCultureProvider.DetermineProviderCultureResult
+  isSpec: "True"
+  fullName: Maomi.I18n.I18nRequestCultureProvider.DetermineProviderCultureResult
+  nameWithType: I18nRequestCultureProvider.DetermineProviderCultureResult
+- uid: Maomi.I18n.I18nStringLocalizer
+  name: I18nStringLocalizer
+  href: api/Maomi.I18n.I18nStringLocalizer.html
+  commentId: T:Maomi.I18n.I18nStringLocalizer
+  fullName: Maomi.I18n.I18nStringLocalizer
+  nameWithType: I18nStringLocalizer
+- uid: Maomi.I18n.I18nStringLocalizer._language
+  name: _language
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer__language
+  commentId: F:Maomi.I18n.I18nStringLocalizer._language
+  fullName: Maomi.I18n.I18nStringLocalizer._language
+  nameWithType: I18nStringLocalizer._language
+- uid: Maomi.I18n.I18nStringLocalizer._path
+  name: _path
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer__path
+  commentId: F:Maomi.I18n.I18nStringLocalizer._path
+  fullName: Maomi.I18n.I18nStringLocalizer._path
+  nameWithType: I18nStringLocalizer._path
+- uid: Maomi.I18n.I18nStringLocalizer.#ctor(System.String,System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.Object})
+  name: I18nStringLocalizer(string, string, IReadOnlyDictionary<string, object>)
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer__ctor_System_String_System_String_System_Collections_Generic_IReadOnlyDictionary_System_String_System_Object__
+  commentId: M:Maomi.I18n.I18nStringLocalizer.#ctor(System.String,System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.Object})
+  name.vb: New(String, String, IReadOnlyDictionary(Of String, Object))
+  fullName: Maomi.I18n.I18nStringLocalizer.I18nStringLocalizer(string, string, System.Collections.Generic.IReadOnlyDictionary<string, object>)
+  fullName.vb: Maomi.I18n.I18nStringLocalizer.New(String, String, System.Collections.Generic.IReadOnlyDictionary(Of String, Object))
+  nameWithType: I18nStringLocalizer.I18nStringLocalizer(string, string, IReadOnlyDictionary<string, object>)
+  nameWithType.vb: I18nStringLocalizer.New(String, String, IReadOnlyDictionary(Of String, Object))
+- uid: Maomi.I18n.I18nStringLocalizer.#ctor*
+  name: I18nStringLocalizer
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer__ctor_
+  commentId: Overload:Maomi.I18n.I18nStringLocalizer.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Maomi.I18n.I18nStringLocalizer.I18nStringLocalizer
+  fullName.vb: Maomi.I18n.I18nStringLocalizer.New
+  nameWithType: I18nStringLocalizer.I18nStringLocalizer
+  nameWithType.vb: I18nStringLocalizer.New
+- uid: Maomi.I18n.I18nStringLocalizer.GetAllStrings(System.Boolean)
+  name: GetAllStrings(bool)
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer_GetAllStrings_System_Boolean_
+  commentId: M:Maomi.I18n.I18nStringLocalizer.GetAllStrings(System.Boolean)
+  name.vb: GetAllStrings(Boolean)
+  fullName: Maomi.I18n.I18nStringLocalizer.GetAllStrings(bool)
+  fullName.vb: Maomi.I18n.I18nStringLocalizer.GetAllStrings(Boolean)
+  nameWithType: I18nStringLocalizer.GetAllStrings(bool)
+  nameWithType.vb: I18nStringLocalizer.GetAllStrings(Boolean)
+- uid: Maomi.I18n.I18nStringLocalizer.GetAllStrings*
+  name: GetAllStrings
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer_GetAllStrings_
+  commentId: Overload:Maomi.I18n.I18nStringLocalizer.GetAllStrings
+  isSpec: "True"
+  fullName: Maomi.I18n.I18nStringLocalizer.GetAllStrings
+  nameWithType: I18nStringLocalizer.GetAllStrings
+- uid: Maomi.I18n.I18nStringLocalizer.Item(System.String,System.Object[])
+  name: this[string, object[]]
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer_Item_System_String_System_Object___
+  commentId: P:Maomi.I18n.I18nStringLocalizer.Item(System.String,System.Object[])
+  name.vb: this[](String, Object())
+  fullName: Maomi.I18n.I18nStringLocalizer.this[string, object[]]
+  fullName.vb: Maomi.I18n.I18nStringLocalizer.this[](String, Object())
+  nameWithType: I18nStringLocalizer.this[string, object[]]
+  nameWithType.vb: I18nStringLocalizer.this[](String, Object())
+- uid: Maomi.I18n.I18nStringLocalizer.Item(System.String)
+  name: this[string]
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer_Item_System_String_
+  commentId: P:Maomi.I18n.I18nStringLocalizer.Item(System.String)
+  name.vb: this[](String)
+  fullName: Maomi.I18n.I18nStringLocalizer.this[string]
+  fullName.vb: Maomi.I18n.I18nStringLocalizer.this[](String)
+  nameWithType: I18nStringLocalizer.this[string]
+  nameWithType.vb: I18nStringLocalizer.this[](String)
+- uid: Maomi.I18n.I18nStringLocalizer.Item*
+  name: this
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer_Item_
+  commentId: Overload:Maomi.I18n.I18nStringLocalizer.Item
+  isSpec: "True"
+  name.vb: this[]
+  fullName: Maomi.I18n.I18nStringLocalizer.this
+  fullName.vb: Maomi.I18n.I18nStringLocalizer.this[]
+  nameWithType: I18nStringLocalizer.this
+  nameWithType.vb: I18nStringLocalizer.this[]
+- uid: Maomi.I18n.I18nStringLocalizer.Language
+  name: Language
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer_Language
+  commentId: P:Maomi.I18n.I18nStringLocalizer.Language
+  fullName: Maomi.I18n.I18nStringLocalizer.Language
+  nameWithType: I18nStringLocalizer.Language
+- uid: Maomi.I18n.I18nStringLocalizer.Language*
+  name: Language
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer_Language_
+  commentId: Overload:Maomi.I18n.I18nStringLocalizer.Language
+  isSpec: "True"
+  fullName: Maomi.I18n.I18nStringLocalizer.Language
+  nameWithType: I18nStringLocalizer.Language
+- uid: Maomi.I18n.I18nStringLocalizer.Path
+  name: Path
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer_Path
+  commentId: P:Maomi.I18n.I18nStringLocalizer.Path
+  fullName: Maomi.I18n.I18nStringLocalizer.Path
+  nameWithType: I18nStringLocalizer.Path
+- uid: Maomi.I18n.I18nStringLocalizer.Path*
+  name: Path
+  href: api/Maomi.I18n.I18nStringLocalizer.html#Maomi_I18n_I18nStringLocalizer_Path_
+  commentId: Overload:Maomi.I18n.I18nStringLocalizer.Path
+  isSpec: "True"
+  fullName: Maomi.I18n.I18nStringLocalizer.Path
+  nameWithType: I18nStringLocalizer.Path
+- uid: Maomi.I18n.I18nStringLocalizer`1
+  name: I18nStringLocalizer<TType>
+  href: api/Maomi.I18n.I18nStringLocalizer-1.html
+  commentId: T:Maomi.I18n.I18nStringLocalizer`1
+  name.vb: I18nStringLocalizer(Of TType)
+  fullName: Maomi.I18n.I18nStringLocalizer<TType>
+  fullName.vb: Maomi.I18n.I18nStringLocalizer(Of TType)
+  nameWithType: I18nStringLocalizer<TType>
+  nameWithType.vb: I18nStringLocalizer(Of TType)
+- uid: Maomi.I18n.I18nStringLocalizer`1.#ctor(Maomi.I18n.I18nContext)
+  name: I18nStringLocalizer(I18nContext)
+  href: api/Maomi.I18n.I18nStringLocalizer-1.html#Maomi_I18n_I18nStringLocalizer_1__ctor_Maomi_I18n_I18nContext_
+  commentId: M:Maomi.I18n.I18nStringLocalizer`1.#ctor(Maomi.I18n.I18nContext)
+  name.vb: New(I18nContext)
+  fullName: Maomi.I18n.I18nStringLocalizer<TType>.I18nStringLocalizer(Maomi.I18n.I18nContext)
+  fullName.vb: Maomi.I18n.I18nStringLocalizer(Of TType).New(Maomi.I18n.I18nContext)
+  nameWithType: I18nStringLocalizer<TType>.I18nStringLocalizer(I18nContext)
+  nameWithType.vb: I18nStringLocalizer(Of TType).New(I18nContext)
+- uid: Maomi.I18n.I18nStringLocalizer`1.#ctor*
+  name: I18nStringLocalizer
+  href: api/Maomi.I18n.I18nStringLocalizer-1.html#Maomi_I18n_I18nStringLocalizer_1__ctor_
+  commentId: Overload:Maomi.I18n.I18nStringLocalizer`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Maomi.I18n.I18nStringLocalizer<TType>.I18nStringLocalizer
+  fullName.vb: Maomi.I18n.I18nStringLocalizer(Of TType).New
+  nameWithType: I18nStringLocalizer<TType>.I18nStringLocalizer
+  nameWithType.vb: I18nStringLocalizer(Of TType).New
+- uid: Maomi.I18n.I18nStringLocalizer`1.GetAllStrings(System.Boolean)
+  name: GetAllStrings(bool)
+  href: api/Maomi.I18n.I18nStringLocalizer-1.html#Maomi_I18n_I18nStringLocalizer_1_GetAllStrings_System_Boolean_
+  commentId: M:Maomi.I18n.I18nStringLocalizer`1.GetAllStrings(System.Boolean)
+  name.vb: GetAllStrings(Boolean)
+  fullName: Maomi.I18n.I18nStringLocalizer<TType>.GetAllStrings(bool)
+  fullName.vb: Maomi.I18n.I18nStringLocalizer(Of TType).GetAllStrings(Boolean)
+  nameWithType: I18nStringLocalizer<TType>.GetAllStrings(bool)
+  nameWithType.vb: I18nStringLocalizer(Of TType).GetAllStrings(Boolean)
+- uid: Maomi.I18n.I18nStringLocalizer`1.GetAllStrings*
+  name: GetAllStrings
+  href: api/Maomi.I18n.I18nStringLocalizer-1.html#Maomi_I18n_I18nStringLocalizer_1_GetAllStrings_
+  commentId: Overload:Maomi.I18n.I18nStringLocalizer`1.GetAllStrings
+  isSpec: "True"
+  fullName: Maomi.I18n.I18nStringLocalizer<TType>.GetAllStrings
+  fullName.vb: Maomi.I18n.I18nStringLocalizer(Of TType).GetAllStrings
+  nameWithType: I18nStringLocalizer<TType>.GetAllStrings
+  nameWithType.vb: I18nStringLocalizer(Of TType).GetAllStrings
+- uid: Maomi.I18n.I18nStringLocalizer`1.Item(System.String,System.Object[])
+  name: this[string, object[]]
+  href: api/Maomi.I18n.I18nStringLocalizer-1.html#Maomi_I18n_I18nStringLocalizer_1_Item_System_String_System_Object___
+  commentId: P:Maomi.I18n.I18nStringLocalizer`1.Item(System.String,System.Object[])
+  name.vb: this[](String, Object())
+  fullName: Maomi.I18n.I18nStringLocalizer<TType>.this[string, object[]]
+  fullName.vb: Maomi.I18n.I18nStringLocalizer(Of TType).this[](String, Object())
+  nameWithType: I18nStringLocalizer<TType>.this[string, object[]]
+  nameWithType.vb: I18nStringLocalizer(Of TType).this[](String, Object())
+- uid: Maomi.I18n.I18nStringLocalizer`1.Item(System.String)
+  name: this[string]
+  href: api/Maomi.I18n.I18nStringLocalizer-1.html#Maomi_I18n_I18nStringLocalizer_1_Item_System_String_
+  commentId: P:Maomi.I18n.I18nStringLocalizer`1.Item(System.String)
+  name.vb: this[](String)
+  fullName: Maomi.I18n.I18nStringLocalizer<TType>.this[string]
+  fullName.vb: Maomi.I18n.I18nStringLocalizer(Of TType).this[](String)
+  nameWithType: I18nStringLocalizer<TType>.this[string]
+  nameWithType.vb: I18nStringLocalizer(Of TType).this[](String)
+- uid: Maomi.I18n.I18nStringLocalizer`1.Item*
+  name: this
+  href: api/Maomi.I18n.I18nStringLocalizer-1.html#Maomi_I18n_I18nStringLocalizer_1_Item_
+  commentId: Overload:Maomi.I18n.I18nStringLocalizer`1.Item
+  isSpec: "True"
+  name.vb: this[]
+  fullName: Maomi.I18n.I18nStringLocalizer<TType>.this
+  fullName.vb: Maomi.I18n.I18nStringLocalizer(Of TType).this[]
+  nameWithType: I18nStringLocalizer<TType>.this
+  nameWithType.vb: I18nStringLocalizer(Of TType).this[]
+- uid: Maomi.I18n.I18nStringLocalizerFactory
+  name: I18nStringLocalizerFactory
+  href: api/Maomi.I18n.I18nStringLocalizerFactory.html
+  commentId: T:Maomi.I18n.I18nStringLocalizerFactory
+  fullName: Maomi.I18n.I18nStringLocalizerFactory
+  nameWithType: I18nStringLocalizerFactory
+- uid: Maomi.I18n.I18nStringLocalizerFactory.Add(System.String,System.String,Microsoft.Extensions.Localization.IStringLocalizer)
+  name: Add(string, string, IStringLocalizer)
+  href: api/Maomi.I18n.I18nStringLocalizerFactory.html#Maomi_I18n_I18nStringLocalizerFactory_Add_System_String_System_String_Microsoft_Extensions_Localization_IStringLocalizer_
+  commentId: M:Maomi.I18n.I18nStringLocalizerFactory.Add(System.String,System.String,Microsoft.Extensions.Localization.IStringLocalizer)
+  name.vb: Add(String, String, IStringLocalizer)
+  fullName: Maomi.I18n.I18nStringLocalizerFactory.Add(string, string, Microsoft.Extensions.Localization.IStringLocalizer)
+  fullName.vb: Maomi.I18n.I18nStringLocalizerFactory.Add(String, String, Microsoft.Extensions.Localization.IStringLocalizer)
+  nameWithType: I18nStringLocalizerFactory.Add(string, string, IStringLocalizer)
+  nameWithType.vb: I18nStringLocalizerFactory.Add(String, String, IStringLocalizer)
+- uid: Maomi.I18n.I18nStringLocalizerFactory.Add*
+  name: Add
+  href: api/Maomi.I18n.I18nStringLocalizerFactory.html#Maomi_I18n_I18nStringLocalizerFactory_Add_
+  commentId: Overload:Maomi.I18n.I18nStringLocalizerFactory.Add
+  isSpec: "True"
+  fullName: Maomi.I18n.I18nStringLocalizerFactory.Add
+  nameWithType: I18nStringLocalizerFactory.Add
+- uid: Maomi.I18n.I18nStringLocalizerFactory.Create(System.String,System.String)
+  name: Create(string, string)
+  href: api/Maomi.I18n.I18nStringLocalizerFactory.html#Maomi_I18n_I18nStringLocalizerFactory_Create_System_String_System_String_
+  commentId: M:Maomi.I18n.I18nStringLocalizerFactory.Create(System.String,System.String)
+  name.vb: Create(String, String)
+  fullName: Maomi.I18n.I18nStringLocalizerFactory.Create(string, string)
+  fullName.vb: Maomi.I18n.I18nStringLocalizerFactory.Create(String, String)
+  nameWithType: I18nStringLocalizerFactory.Create(string, string)
+  nameWithType.vb: I18nStringLocalizerFactory.Create(String, String)
+- uid: Maomi.I18n.I18nStringLocalizerFactory.Create(System.Type)
+  name: Create(Type)
+  href: api/Maomi.I18n.I18nStringLocalizerFactory.html#Maomi_I18n_I18nStringLocalizerFactory_Create_System_Type_
+  commentId: M:Maomi.I18n.I18nStringLocalizerFactory.Create(System.Type)
+  fullName: Maomi.I18n.I18nStringLocalizerFactory.Create(System.Type)
+  nameWithType: I18nStringLocalizerFactory.Create(Type)
+- uid: Maomi.I18n.I18nStringLocalizerFactory.Create*
+  name: Create
+  href: api/Maomi.I18n.I18nStringLocalizerFactory.html#Maomi_I18n_I18nStringLocalizerFactory_Create_
+  commentId: Overload:Maomi.I18n.I18nStringLocalizerFactory.Create
+  isSpec: "True"
+  fullName: Maomi.I18n.I18nStringLocalizerFactory.Create
+  nameWithType: I18nStringLocalizerFactory.Create
+- uid: Maomi.I18n.I18nStringLocalizerFactory.Get(System.String)
+  name: Get(string)
+  href: api/Maomi.I18n.I18nStringLocalizerFactory.html#Maomi_I18n_I18nStringLocalizerFactory_Get_System_String_
+  commentId: M:Maomi.I18n.I18nStringLocalizerFactory.Get(System.String)
+  name.vb: Get(String)
+  fullName: Maomi.I18n.I18nStringLocalizerFactory.Get(string)
+  fullName.vb: Maomi.I18n.I18nStringLocalizerFactory.Get(String)
+  nameWithType: I18nStringLocalizerFactory.Get(string)
+  nameWithType.vb: I18nStringLocalizerFactory.Get(String)
+- uid: Maomi.I18n.I18nStringLocalizerFactory.Get*
+  name: Get
+  href: api/Maomi.I18n.I18nStringLocalizerFactory.html#Maomi_I18n_I18nStringLocalizerFactory_Get_
+  commentId: Overload:Maomi.I18n.I18nStringLocalizerFactory.Get
+  isSpec: "True"
+  fullName: Maomi.I18n.I18nStringLocalizerFactory.Get
+  nameWithType: I18nStringLocalizerFactory.Get
+- uid: Maomi.I18n.ReadJsonHelper
+  name: ReadJsonHelper
+  href: api/Maomi.I18n.ReadJsonHelper.html
+  commentId: T:Maomi.I18n.ReadJsonHelper
+  fullName: Maomi.I18n.ReadJsonHelper
+  nameWithType: ReadJsonHelper
+- uid: Maomi.I18n.ReadJsonHelper.Read(System.Buffers.ReadOnlySequence{System.Byte},System.Text.Json.JsonReaderOptions)
+  name: Read(ReadOnlySequence<byte>, JsonReaderOptions)
+  href: api/Maomi.I18n.ReadJsonHelper.html#Maomi_I18n_ReadJsonHelper_Read_System_Buffers_ReadOnlySequence_System_Byte__System_Text_Json_JsonReaderOptions_
+  commentId: M:Maomi.I18n.ReadJsonHelper.Read(System.Buffers.ReadOnlySequence{System.Byte},System.Text.Json.JsonReaderOptions)
+  name.vb: Read(ReadOnlySequence(Of Byte), JsonReaderOptions)
+  fullName: Maomi.I18n.ReadJsonHelper.Read(System.Buffers.ReadOnlySequence<byte>, System.Text.Json.JsonReaderOptions)
+  fullName.vb: Maomi.I18n.ReadJsonHelper.Read(System.Buffers.ReadOnlySequence(Of Byte), System.Text.Json.JsonReaderOptions)
+  nameWithType: ReadJsonHelper.Read(ReadOnlySequence<byte>, JsonReaderOptions)
+  nameWithType.vb: ReadJsonHelper.Read(ReadOnlySequence(Of Byte), JsonReaderOptions)
+- uid: Maomi.I18n.ReadJsonHelper.Read*
+  name: Read
+  href: api/Maomi.I18n.ReadJsonHelper.html#Maomi_I18n_ReadJsonHelper_Read_
+  commentId: Overload:Maomi.I18n.ReadJsonHelper.Read
+  isSpec: "True"
+  fullName: Maomi.I18n.ReadJsonHelper.Read
+  nameWithType: ReadJsonHelper.Read
+- uid: Maomi.Module
+  name: Module
+  href: api/Maomi.Module.html
+  commentId: N:Maomi.Module
+  name.csharp: Maomi.Module
+  name.vb: Maomi.Module
+  fullName: Maomi.Module
+  nameWithType: Maomi.Module
+- uid: Maomi.Module.IModule
+  name: IModule
+  href: api/Maomi.Module.IModule.html
+  commentId: T:Maomi.Module.IModule
+  fullName: Maomi.Module.IModule
+  nameWithType: IModule
+- uid: Maomi.Module.IModule.ConfigureServices(Maomi.Module.ServiceContext)
+  name: ConfigureServices(ServiceContext)
+  href: api/Maomi.Module.IModule.html#Maomi_Module_IModule_ConfigureServices_Maomi_Module_ServiceContext_
+  commentId: M:Maomi.Module.IModule.ConfigureServices(Maomi.Module.ServiceContext)
+  fullName: Maomi.Module.IModule.ConfigureServices(Maomi.Module.ServiceContext)
+  nameWithType: IModule.ConfigureServices(ServiceContext)
+- uid: Maomi.Module.IModule.ConfigureServices*
+  name: ConfigureServices
+  href: api/Maomi.Module.IModule.html#Maomi_Module_IModule_ConfigureServices_
+  commentId: Overload:Maomi.Module.IModule.ConfigureServices
+  isSpec: "True"
+  fullName: Maomi.Module.IModule.ConfigureServices
+  nameWithType: IModule.ConfigureServices
+- uid: Maomi.Module.InjectModuleAttribute
+  name: InjectModuleAttribute
+  href: api/Maomi.Module.InjectModuleAttribute.html
+  commentId: T:Maomi.Module.InjectModuleAttribute
+  fullName: Maomi.Module.InjectModuleAttribute
+  nameWithType: InjectModuleAttribute
+- uid: Maomi.Module.InjectModuleAttribute.#ctor(System.Type)
+  name: InjectModuleAttribute(Type)
+  href: api/Maomi.Module.InjectModuleAttribute.html#Maomi_Module_InjectModuleAttribute__ctor_System_Type_
+  commentId: M:Maomi.Module.InjectModuleAttribute.#ctor(System.Type)
+  name.vb: New(Type)
+  fullName: Maomi.Module.InjectModuleAttribute.InjectModuleAttribute(System.Type)
+  fullName.vb: Maomi.Module.InjectModuleAttribute.New(System.Type)
+  nameWithType: InjectModuleAttribute.InjectModuleAttribute(Type)
+  nameWithType.vb: InjectModuleAttribute.New(Type)
+- uid: Maomi.Module.InjectModuleAttribute.#ctor*
+  name: InjectModuleAttribute
+  href: api/Maomi.Module.InjectModuleAttribute.html#Maomi_Module_InjectModuleAttribute__ctor_
+  commentId: Overload:Maomi.Module.InjectModuleAttribute.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Maomi.Module.InjectModuleAttribute.InjectModuleAttribute
+  fullName.vb: Maomi.Module.InjectModuleAttribute.New
+  nameWithType: InjectModuleAttribute.InjectModuleAttribute
+  nameWithType.vb: InjectModuleAttribute.New
+- uid: Maomi.Module.InjectModuleAttribute.ModuleType
+  name: ModuleType
+  href: api/Maomi.Module.InjectModuleAttribute.html#Maomi_Module_InjectModuleAttribute_ModuleType
+  commentId: P:Maomi.Module.InjectModuleAttribute.ModuleType
+  fullName: Maomi.Module.InjectModuleAttribute.ModuleType
+  nameWithType: InjectModuleAttribute.ModuleType
+- uid: Maomi.Module.InjectModuleAttribute.ModuleType*
+  name: ModuleType
+  href: api/Maomi.Module.InjectModuleAttribute.html#Maomi_Module_InjectModuleAttribute_ModuleType_
+  commentId: Overload:Maomi.Module.InjectModuleAttribute.ModuleType
+  isSpec: "True"
+  fullName: Maomi.Module.InjectModuleAttribute.ModuleType
+  nameWithType: InjectModuleAttribute.ModuleType
+- uid: Maomi.Module.InjectModuleAttribute`1
+  name: InjectModuleAttribute<TModule>
+  href: api/Maomi.Module.InjectModuleAttribute-1.html
+  commentId: T:Maomi.Module.InjectModuleAttribute`1
+  name.vb: InjectModuleAttribute(Of TModule)
+  fullName: Maomi.Module.InjectModuleAttribute<TModule>
+  fullName.vb: Maomi.Module.InjectModuleAttribute(Of TModule)
+  nameWithType: InjectModuleAttribute<TModule>
+  nameWithType.vb: InjectModuleAttribute(Of TModule)
+- uid: Maomi.Module.InjectModuleAttribute`1.#ctor
+  name: InjectModuleAttribute()
+  href: api/Maomi.Module.InjectModuleAttribute-1.html#Maomi_Module_InjectModuleAttribute_1__ctor
+  commentId: M:Maomi.Module.InjectModuleAttribute`1.#ctor
+  name.vb: New()
+  fullName: Maomi.Module.InjectModuleAttribute<TModule>.InjectModuleAttribute()
+  fullName.vb: Maomi.Module.InjectModuleAttribute(Of TModule).New()
+  nameWithType: InjectModuleAttribute<TModule>.InjectModuleAttribute()
+  nameWithType.vb: InjectModuleAttribute(Of TModule).New()
+- uid: Maomi.Module.InjectModuleAttribute`1.#ctor*
+  name: InjectModuleAttribute
+  href: api/Maomi.Module.InjectModuleAttribute-1.html#Maomi_Module_InjectModuleAttribute_1__ctor_
+  commentId: Overload:Maomi.Module.InjectModuleAttribute`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Maomi.Module.InjectModuleAttribute<TModule>.InjectModuleAttribute
+  fullName.vb: Maomi.Module.InjectModuleAttribute(Of TModule).New
+  nameWithType: InjectModuleAttribute<TModule>.InjectModuleAttribute
+  nameWithType.vb: InjectModuleAttribute(Of TModule).New
+- uid: Maomi.Module.InjectOnAttribute
+  name: InjectOnAttribute
+  href: api/Maomi.Module.InjectOnAttribute.html
+  commentId: T:Maomi.Module.InjectOnAttribute
+  fullName: Maomi.Module.InjectOnAttribute
+  nameWithType: InjectOnAttribute
+- uid: Maomi.Module.InjectOnAttribute.#ctor(Microsoft.Extensions.DependencyInjection.ServiceLifetime,Maomi.Module.InjectScheme)
+  name: InjectOnAttribute(ServiceLifetime, InjectScheme)
+  href: api/Maomi.Module.InjectOnAttribute.html#Maomi_Module_InjectOnAttribute__ctor_Microsoft_Extensions_DependencyInjection_ServiceLifetime_Maomi_Module_InjectScheme_
+  commentId: M:Maomi.Module.InjectOnAttribute.#ctor(Microsoft.Extensions.DependencyInjection.ServiceLifetime,Maomi.Module.InjectScheme)
+  name.vb: New(ServiceLifetime, InjectScheme)
+  fullName: Maomi.Module.InjectOnAttribute.InjectOnAttribute(Microsoft.Extensions.DependencyInjection.ServiceLifetime, Maomi.Module.InjectScheme)
+  fullName.vb: Maomi.Module.InjectOnAttribute.New(Microsoft.Extensions.DependencyInjection.ServiceLifetime, Maomi.Module.InjectScheme)
+  nameWithType: InjectOnAttribute.InjectOnAttribute(ServiceLifetime, InjectScheme)
+  nameWithType.vb: InjectOnAttribute.New(ServiceLifetime, InjectScheme)
+- uid: Maomi.Module.InjectOnAttribute.#ctor*
+  name: InjectOnAttribute
+  href: api/Maomi.Module.InjectOnAttribute.html#Maomi_Module_InjectOnAttribute__ctor_
+  commentId: Overload:Maomi.Module.InjectOnAttribute.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Maomi.Module.InjectOnAttribute.InjectOnAttribute
+  fullName.vb: Maomi.Module.InjectOnAttribute.New
+  nameWithType: InjectOnAttribute.InjectOnAttribute
+  nameWithType.vb: InjectOnAttribute.New
+- uid: Maomi.Module.InjectOnAttribute.Lifetime
+  name: Lifetime
+  href: api/Maomi.Module.InjectOnAttribute.html#Maomi_Module_InjectOnAttribute_Lifetime
+  commentId: P:Maomi.Module.InjectOnAttribute.Lifetime
+  fullName: Maomi.Module.InjectOnAttribute.Lifetime
+  nameWithType: InjectOnAttribute.Lifetime
+- uid: Maomi.Module.InjectOnAttribute.Lifetime*
+  name: Lifetime
+  href: api/Maomi.Module.InjectOnAttribute.html#Maomi_Module_InjectOnAttribute_Lifetime_
+  commentId: Overload:Maomi.Module.InjectOnAttribute.Lifetime
+  isSpec: "True"
+  fullName: Maomi.Module.InjectOnAttribute.Lifetime
+  nameWithType: InjectOnAttribute.Lifetime
+- uid: Maomi.Module.InjectOnAttribute.Own
+  name: Own
+  href: api/Maomi.Module.InjectOnAttribute.html#Maomi_Module_InjectOnAttribute_Own
+  commentId: P:Maomi.Module.InjectOnAttribute.Own
+  fullName: Maomi.Module.InjectOnAttribute.Own
+  nameWithType: InjectOnAttribute.Own
+- uid: Maomi.Module.InjectOnAttribute.Own*
+  name: Own
+  href: api/Maomi.Module.InjectOnAttribute.html#Maomi_Module_InjectOnAttribute_Own_
+  commentId: Overload:Maomi.Module.InjectOnAttribute.Own
+  isSpec: "True"
+  fullName: Maomi.Module.InjectOnAttribute.Own
+  nameWithType: InjectOnAttribute.Own
+- uid: Maomi.Module.InjectOnAttribute.Scheme
+  name: Scheme
+  href: api/Maomi.Module.InjectOnAttribute.html#Maomi_Module_InjectOnAttribute_Scheme
+  commentId: P:Maomi.Module.InjectOnAttribute.Scheme
+  fullName: Maomi.Module.InjectOnAttribute.Scheme
+  nameWithType: InjectOnAttribute.Scheme
+- uid: Maomi.Module.InjectOnAttribute.Scheme*
+  name: Scheme
+  href: api/Maomi.Module.InjectOnAttribute.html#Maomi_Module_InjectOnAttribute_Scheme_
+  commentId: Overload:Maomi.Module.InjectOnAttribute.Scheme
+  isSpec: "True"
+  fullName: Maomi.Module.InjectOnAttribute.Scheme
+  nameWithType: InjectOnAttribute.Scheme
+- uid: Maomi.Module.InjectOnAttribute.ServicesType
+  name: ServicesType
+  href: api/Maomi.Module.InjectOnAttribute.html#Maomi_Module_InjectOnAttribute_ServicesType
+  commentId: P:Maomi.Module.InjectOnAttribute.ServicesType
+  fullName: Maomi.Module.InjectOnAttribute.ServicesType
+  nameWithType: InjectOnAttribute.ServicesType
+- uid: Maomi.Module.InjectOnAttribute.ServicesType*
+  name: ServicesType
+  href: api/Maomi.Module.InjectOnAttribute.html#Maomi_Module_InjectOnAttribute_ServicesType_
+  commentId: Overload:Maomi.Module.InjectOnAttribute.ServicesType
+  isSpec: "True"
+  fullName: Maomi.Module.InjectOnAttribute.ServicesType
+  nameWithType: InjectOnAttribute.ServicesType
+- uid: Maomi.Module.InjectScheme
+  name: InjectScheme
+  href: api/Maomi.Module.InjectScheme.html
+  commentId: T:Maomi.Module.InjectScheme
+  fullName: Maomi.Module.InjectScheme
+  nameWithType: InjectScheme
+- uid: Maomi.Module.InjectScheme.Any
+  name: Any
+  href: api/Maomi.Module.InjectScheme.html#Maomi_Module_InjectScheme_Any
+  commentId: F:Maomi.Module.InjectScheme.Any
+  fullName: Maomi.Module.InjectScheme.Any
+  nameWithType: InjectScheme.Any
+- uid: Maomi.Module.InjectScheme.None
+  name: None
+  href: api/Maomi.Module.InjectScheme.html#Maomi_Module_InjectScheme_None
+  commentId: F:Maomi.Module.InjectScheme.None
+  fullName: Maomi.Module.InjectScheme.None
+  nameWithType: InjectScheme.None
+- uid: Maomi.Module.InjectScheme.OnlyBaseClass
+  name: OnlyBaseClass
+  href: api/Maomi.Module.InjectScheme.html#Maomi_Module_InjectScheme_OnlyBaseClass
+  commentId: F:Maomi.Module.InjectScheme.OnlyBaseClass
+  fullName: Maomi.Module.InjectScheme.OnlyBaseClass
+  nameWithType: InjectScheme.OnlyBaseClass
+- uid: Maomi.Module.InjectScheme.OnlyInterfaces
+  name: OnlyInterfaces
+  href: api/Maomi.Module.InjectScheme.html#Maomi_Module_InjectScheme_OnlyInterfaces
+  commentId: F:Maomi.Module.InjectScheme.OnlyInterfaces
+  fullName: Maomi.Module.InjectScheme.OnlyInterfaces
+  nameWithType: InjectScheme.OnlyInterfaces
+- uid: Maomi.Module.InjectScheme.Some
+  name: Some
+  href: api/Maomi.Module.InjectScheme.html#Maomi_Module_InjectScheme_Some
+  commentId: F:Maomi.Module.InjectScheme.Some
+  fullName: Maomi.Module.InjectScheme.Some
+  nameWithType: InjectScheme.Some
+- uid: Maomi.Module.ServiceContext
+  name: ServiceContext
+  href: api/Maomi.Module.ServiceContext.html
+  commentId: T:Maomi.Module.ServiceContext
+  fullName: Maomi.Module.ServiceContext
+  nameWithType: ServiceContext
+- uid: Maomi.Module.ServiceContext.Configuration
+  name: Configuration
+  href: api/Maomi.Module.ServiceContext.html#Maomi_Module_ServiceContext_Configuration
+  commentId: P:Maomi.Module.ServiceContext.Configuration
+  fullName: Maomi.Module.ServiceContext.Configuration
+  nameWithType: ServiceContext.Configuration
+- uid: Maomi.Module.ServiceContext.Configuration*
+  name: Configuration
+  href: api/Maomi.Module.ServiceContext.html#Maomi_Module_ServiceContext_Configuration_
+  commentId: Overload:Maomi.Module.ServiceContext.Configuration
+  isSpec: "True"
+  fullName: Maomi.Module.ServiceContext.Configuration
+  nameWithType: ServiceContext.Configuration
+- uid: Maomi.Module.ServiceContext.Services
+  name: Services
+  href: api/Maomi.Module.ServiceContext.html#Maomi_Module_ServiceContext_Services
+  commentId: P:Maomi.Module.ServiceContext.Services
+  fullName: Maomi.Module.ServiceContext.Services
+  nameWithType: ServiceContext.Services
+- uid: Maomi.Module.ServiceContext.Services*
+  name: Services
+  href: api/Maomi.Module.ServiceContext.html#Maomi_Module_ServiceContext_Services_
+  commentId: Overload:Maomi.Module.ServiceContext.Services
+  isSpec: "True"
+  fullName: Maomi.Module.ServiceContext.Services
+  nameWithType: ServiceContext.Services
+- uid: Maomi.ModuleExtensions
+  name: ModuleExtensions
+  href: api/Maomi.ModuleExtensions.html
+  commentId: T:Maomi.ModuleExtensions
+  fullName: Maomi.ModuleExtensions
+  nameWithType: ModuleExtensions
+- uid: Maomi.ModuleExtensions.AddModule(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type)
+  name: AddModule(IServiceCollection, Type)
+  href: api/Maomi.ModuleExtensions.html#Maomi_ModuleExtensions_AddModule_Microsoft_Extensions_DependencyInjection_IServiceCollection_System_Type_
+  commentId: M:Maomi.ModuleExtensions.AddModule(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type)
+  fullName: Maomi.ModuleExtensions.AddModule(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Type)
+  nameWithType: ModuleExtensions.AddModule(IServiceCollection, Type)
+- uid: Maomi.ModuleExtensions.AddModule*
+  name: AddModule
+  href: api/Maomi.ModuleExtensions.html#Maomi_ModuleExtensions_AddModule_
+  commentId: Overload:Maomi.ModuleExtensions.AddModule
+  isSpec: "True"
+  fullName: Maomi.ModuleExtensions.AddModule
+  nameWithType: ModuleExtensions.AddModule
+- uid: Maomi.ModuleExtensions.AddModule``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name: AddModule<TModule>(IServiceCollection)
+  href: api/Maomi.ModuleExtensions.html#Maomi_ModuleExtensions_AddModule__1_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:Maomi.ModuleExtensions.AddModule``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name.vb: AddModule(Of TModule)(IServiceCollection)
+  fullName: Maomi.ModuleExtensions.AddModule<TModule>(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  fullName.vb: Maomi.ModuleExtensions.AddModule(Of TModule)(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  nameWithType: ModuleExtensions.AddModule<TModule>(IServiceCollection)
+  nameWithType.vb: ModuleExtensions.AddModule(Of TModule)(IServiceCollection)

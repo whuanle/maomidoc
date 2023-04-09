@@ -1,0 +1,323 @@
+{
+  "homepages": [],
+  "source_base_path": "E:/maomi文档/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.EventBus.Event.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.EventBus.Event.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.EventBus.EventAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.EventBus.EventAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.EventBus.EventBus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.EventBus.EventBus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.EventBus.EventBusExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.EventBus.EventBusExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.EventBus.EventHandlerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.EventBus.EventHandlerAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.EventBus.EventHandlerDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.EventBus.EventHandlerDelegate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.EventBus.IEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.EventBus.IEvent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.EventBus.IEventBus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.EventBus.IEventBus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.EventBus.IEventMiddleware-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.EventBus.IEventMiddleware-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.EventBus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.EventBus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.I18n.I18nContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.I18n.I18nContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.I18n.I18nExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.I18n.I18nExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.I18n.I18nMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.I18n.I18nMiddleware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.I18n.I18nRequestCultureProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.I18n.I18nRequestCultureProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.I18n.I18nStringLocalizer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.I18n.I18nStringLocalizer-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.I18n.I18nStringLocalizer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.I18n.I18nStringLocalizer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.I18n.I18nStringLocalizerFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.I18n.I18nStringLocalizerFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.I18n.ReadJsonHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.I18n.ReadJsonHelper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.I18n.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.I18n.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.Module.IModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.Module.IModule.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.Module.InjectModuleAttribute-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.Module.InjectModuleAttribute-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.Module.InjectModuleAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.Module.InjectModuleAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.Module.InjectOnAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.Module.InjectOnAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.Module.InjectScheme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.Module.InjectScheme.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.Module.ServiceContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.Module.ServiceContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.Module.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.Module.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.ModuleExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.ModuleExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Maomi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maomi.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
